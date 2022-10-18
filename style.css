@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+textarea{
+    width: 30%;
+    height: 250px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #253529;
+    color: white;
+
+}
+button{
+    margin: 10px;
+    background-color: #29cc52;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+}
+
+iframe{
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    background-color: white;
+    width: 96%;
+    height: 500px;
+}
